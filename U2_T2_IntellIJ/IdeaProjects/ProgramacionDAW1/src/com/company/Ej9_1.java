@@ -1,4 +1,4 @@
-package com.company;
+package com.David.Ej9;
 
 import java.util.Scanner;
 
@@ -25,5 +25,6 @@ public class Ej9_1 {
         }else{
             System.out.println("Las dos palabras son igual de largas");
         }
+
     }
 }

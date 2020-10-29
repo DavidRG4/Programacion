@@ -1,7 +1,6 @@
-package com.company;
+package com.David.Ej9;
 
 import java.util.Scanner;
-
 
 public class Ej9_2 {
     public static void main(String[] args) {
@@ -18,10 +17,10 @@ public class Ej9_2 {
                 letras++;
             }
         }
+
         System.out.println("jugador dos intenta adivinarla");
         j2= sc.nextLine();
         while (j2!=psw1){
-
             if (j2.equals(psw1)){
                 System.out.println("Acertaste");
                 break;
@@ -35,6 +34,10 @@ public class Ej9_2 {
                 System.out.println("Tu segunda psita es que tiene "+digitos+" numeros y "+letras+" letras");
             }
             if (pista==4){
+                System.out.println("Comienza con la letra "+psw1.charAt(0)+" termina con la letra "+psw1.charAt(psw1.length()-1));
+
+            }
+            if (pista==5){
                 System.out.println("Fallaste te quedaste sin intetos");
                 break;
             }
@@ -43,5 +46,4 @@ public class Ej9_2 {
         }
 
     }
-}//System.out.println("Tu segunda psita es que tiene "+Character.isDigit(psw1.charAt(psw1.length()))+" numeros y "+Character.isLetter(psw1.charAt(psw1.length()))+" letras");
-
+}
