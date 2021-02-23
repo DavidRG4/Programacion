@@ -1,0 +1,4 @@
+
+Fri Feb 19 14:08:58 CET 2021 EdadErronea: imposible crear usuario con nombre Pepe.La edad no es la correcta (Edad indicada:110 )
+
+Fri Feb 19 14:08:58 CET 2021 MenorEdad: imposible crear usuario con nombreManue .El cliente no puede ser menor de Edad (Edad indicada:2 )
