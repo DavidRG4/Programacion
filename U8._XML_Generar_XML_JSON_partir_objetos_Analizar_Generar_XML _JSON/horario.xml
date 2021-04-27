@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<horario>
+    <dia nombre="Lunes">
+        <tramo>SIS</tramo>
+        <tramo>BD</tramo>
+        <tramo>BD</tramo>
+        <tramo>ENDES</tramo>
+        <tramo>FOL</tramo>
+        <tramo>FOL</tramo>
+    </dia>
+</horario>

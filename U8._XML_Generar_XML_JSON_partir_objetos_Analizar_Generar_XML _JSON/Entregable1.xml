@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<personas>
+    <persona name="alumno">
+        <nombre>Pepe</nombre>
+        <apellido>Perez</apellido>
+        <dni>123456789F</dni>
+    </persona>
+    <persona name="alumno">
+        <nombre>Jose</nombre>
+        <apellido>Lopez</apellido>
+        <dni>987654321S</dni>
+    </persona>
+    <persona name="alumno">
+        <nombre>Maria</nombre>
+        <apellido>Lopez</apellido>
+        <dni>123678945G</dni>
+    </persona>
+    <persona name="alumno">
+        <nombre>Marta</nombre>
+        <apellido>Castallo</apellido>
+        <dni>135798642H</dni>
+    </persona>
+    <persona name="profesor">
+        <nombre>Manuel</nombre>
+        <apellido>Perez</apellido>
+        <dni>246813579A</dni>
+    </persona>
+</personas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><alumnos>
+    <alumno>
+        <nombre>Pepe</nombre>
+        <apellido>Perez</apellido>
+    </alumno>
+<alumno><nombre>Pepe</nombre><apellido>Perez</apellido></alumno><alumno><nombre>Manue</nombre><apellido>Lopez</apellido></alumno><alumno><nombre>Jose</nombre><apellido>Castallo</apellido></alumno><alumno><nombre>Maria</nombre><apellido>Rivera</apellido></alumno><alumno><nombre>Marco</nombre><apellido>Garcia</apellido></alumno></alumnos>
